@@ -5,9 +5,9 @@ Aplikasi tabungan siswa berbasis web ini dibuat menggunakan php 7.3 dan MySQL 5.
 
 Fitur yang ada
 
-Input dan delete data siswa
-Input dan delete data tabungan siswa
-Mencari data tabungan siswa
+/Input dan delete data siswa </br>
+Input dan delete data tabungan siswa<br>
+Mencari data tabungan siswa</br>
 Melihat detail tabungan dan total tabungan per siswa
 
 Database yang digunakan adalah database tabungan_siswa.sql
