@@ -1,5 +1,5 @@
 # tabungansiswa
-Deskripsi Aplikasi
+Deskripsi Aplikasi<br>
 <br>
 Aplikasi tabungan siswa berbasis web ini dibuat menggunakan php 7.3 dan MySQL 5.7. Diperlukan kemampuan html dan css untuk membuatnya
 <br>
@@ -23,4 +23,4 @@ Mengakes file aplikasi<br>
 Jika anda menggunakan xampp, copykan aplikasi di directory htdocs dan buka aplikasi di browser dengan mengakses http://localhost/tabungansiswa/login.php.<br>
 jika anda menggunakan wamp, copykan aplikasi di driectory www dan buka aplikasi di browser dengan mengakses http://localhost/tabungansiswa/login.php.<br>
 <br>
-Aplikasi ini dibuat untuk kebutuhan belajar php dasar untuk pemula.<br>
+Aplikasi ini dibuat untuk kebutuhan belajar php dasar untuk pemula.<br> Tampilan full aplikasi dapat dilihat di https://www.indonetsource.com/aplikasi-tabungan-berbasis-web/
