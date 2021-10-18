@@ -1,9 +1,9 @@
 # tabungansiswa
 Deskripsi Aplikasi<br>
 <br>
-Aplikasi tabungan siswa berbasis web ini dibuat menggunakan php 7.3 dan MySQL 5.7. Diperlukan kemampuan html dan css untuk membuatnya
+Aplikasi tabungan siswa berbasis web ini dibuat menggunakan php 7.3 dan MySQL 5.7. Diperlukan kemampuan html dan css untuk membuatnya<br>
 <br>
-Fitur yang ada
+Fitur yang ada<br>
 <br>
 Input dan delete data siswa </br>
 Input dan delete data tabungan siswa<br>
